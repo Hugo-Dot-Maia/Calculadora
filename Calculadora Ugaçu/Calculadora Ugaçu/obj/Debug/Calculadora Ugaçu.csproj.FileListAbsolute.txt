@@ -1,0 +1,7 @@
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\bin\Debug\Calculadora Ugaçu.exe.config
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\bin\Debug\Calculadora Ugaçu.exe
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\bin\Debug\Calculadora Ugaçu.pdb
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\obj\Debug\Calculadora Ugaçu.csprojAssemblyReference.cache
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\obj\Debug\Calculadora Ugaçu.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\obj\Debug\Calculadora Ugaçu.exe
+C:\Users\phili\source\repos\Calculadora Ugaçu\Calculadora Ugaçu\obj\Debug\Calculadora Ugaçu.pdb
