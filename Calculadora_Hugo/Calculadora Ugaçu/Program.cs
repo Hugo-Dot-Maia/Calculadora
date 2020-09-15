@@ -6,7 +6,7 @@ namespace CalUgaçu
 	{
 		static void Main()
 		{
-			Console.WriteLine("Bem vindo, este programa simula uma calculadora");
+			Console.WriteLine("Bem vindo, este programa simula uma calculadora"); //Teste
 			Alterna();
 		}
 
